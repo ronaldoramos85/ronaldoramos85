@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou @ronaldoramos85 (Ronaldo Ramos). Sou mestre em Filosofia pela UFMT (2020), na linha de pesquisa Epistemologia, Mente e Linguagem. Sou graduado em Gestão da Tecnologia da Informação pela UNISUL (2011). Trabalho como Administrador de Banco de Dados Oracle com mais de 15 anos de experiência em ambientes Linux, Unix e Microsoft Windows.
+Eu sou @ronaldoramos85 (Ronaldo Ramos). Sou mestre em Filosofia pela UFMT (2020), na linha de pesquisa Epistemologia, Mente e Linguagem. Sou graduado em Gestão da Tecnologia da Informação pela UNISUL (2011). Trabalho como Administrador de Banco de Dados Oracle com mais de 15 anos de experiência em ambientes Linux, Unix e Microsoft Windows. No que se refere aos meus interesses de pesquisa, eles incluem, mas, não se limitam a: Aprendizado de Máquina (Machine Learning), Análise de Dados (Data Analysis), Ciência de Dados (Data Science) e Engenharia de Dados (Data Engineering).
 
 
 ## 🛠 Habilidades
