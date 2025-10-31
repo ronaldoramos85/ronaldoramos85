@@ -1,6 +1,6 @@
 # Olá! Eu sou Ronaldo Ramos 👋
 
-### Administrador de Bancos de Dados | Data Engineer | Pesquisador em Filosofia da Tecnologia
+### Administrador de Bancos de Dados | Data Engineer | Data Scientist
 
 Com mais de **15 anos de experiência** em Administração e Gestão de Bancos de Dados, sou um profissional que combina **sólida expertise técnica** em ambientes de missão crítica com uma **visão analítica e estratégica** adquirida por meio de estudos em Filosofia da Tecnologia.
 
