@@ -1,8 +1,8 @@
 # Olá! Eu sou Ronaldo Ramos 👋
 
-### Administrador de Bancos de Dados | Data Engineer | Data Scientist
+### DBA | Data Engineer | Data Scientist
 
-Com mais de **15 anos de experiência** em Administração e Gestão de Bancos de Dados, sou um profissional que combina **sólida expertise técnica** em ambientes de missão crítica com uma **visão analítica e estratégica** adquirida por meio de estudos em Filosofia da Tecnologia.
+Com mais de **15 anos de experiência** em Administração e Gestão de Bancos de Dados, sou um profissional que combina **sólida expertise técnica** em ambientes de missão crítica com uma **visão analítica e estratégica** adquirida por meio de experiência em projetos complexos, gestão de equipes e aprendizado acadêmico.
 
 Meu foco é garantir a performance, a segurança e a arquitetura de dados, enquanto exploro as fronteiras entre TI, a Cognição e a Inteligência Artificial.
 
@@ -20,7 +20,7 @@ Minha experiência é vasta, abrangendo todo o ciclo de vida de Bancos de Dados,
 
 #### 🧠 Engenharia de Dados & Data Science
 * **Linguagens:** **Python** (Data Science), **R** (Linguagem de Programação).
-* **Modelagem & BI:** Modelagem de Dados, ETL, Suporte a SAP Business Objects.
+* **Modelagem & BI:** Modelagem de Dados, ETL, SAP Business Objects e Google Looker Studio.
 * **Infraestrutura:** Administração de ambientes **Linux**.
 * **Liderança & Gestão:** Gerenciamento de Equipe de DBAs, Metodologias Ágeis (Kanban, OKR).
 
